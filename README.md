@@ -1,2 +1,2 @@
 # moerqiang.github.io
-persional website
+personal website
